@@ -1,0 +1,196 @@
+{
+  "운영진": [
+    {
+      "Name": "지하",
+      "Position": "대표",
+      "Image": "image 14.png",
+      "Color": "#FED3E7",
+      "NotionPage": "e0712e9d00094739989b8d59dda064b9"
+    },
+    {
+      "Name": "마르크",
+      "Position": "부대표",
+      "Image": "image 15.png",
+      "Color": "#430505",
+      "NotionPage": ""
+    },
+    {
+      "Name": "희날",
+      "Position": "성우부 매니저",
+      "Image": "image 16.png",
+      "Color": "#9AD8C3",
+      "NotionPage": ""
+    },
+    {
+      "Name": "희날",
+      "Position": "성우부 매니저",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "트레이너": [
+    {
+      "Name": "우럭",
+      "Position": "성우 트레이너",
+      "Image": "Image 17.png",
+      "Color": "#B2C5FF",
+      "NotionPage": ""
+    },
+    {
+      "Name": "로쿠",
+      "Position": "성우 트레이너",
+      "Image": "Image 18.png",
+      "Color": "#8AF5BF",
+      "NotionPage": ""
+    },
+    {
+      "Name": "청",
+      "Position": "성우 트레이너",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "장민지",
+      "Position": "성우 트레이너",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "성우부": [
+    {
+      "Name": "끼남",
+      "Position": "성우부",
+      "Image": "Image 19.png",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "글리민",
+      "Position": "성우부",
+      "Image": "Image 20.png",
+      "Color": "#E0F58A",
+      "NotionPage": ""
+    },
+    {
+      "Name": "뭉멍",
+      "Position": "성우부",
+      "Image": "Image 21.jpg",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "슈비두밥",
+      "Position": "성우부",
+      "Image": "Image 22.png",
+      "Color": "#9AD8C5",
+      "NotionPage": ""
+    },
+    {
+      "Name": "키엘",
+      "Position": "성우부",
+      "Image": "Image 23.png",
+      "Color": "#B2C5FF",
+      "NotionPage": ""
+    },
+    {
+      "Name": "복치",
+      "Position": "성우부",
+      "Image": "Image 24.png",
+      "Color": "#FCAAA7",
+      "NotionPage": ""
+    },
+    {
+      "Name": "청명",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "일러부": [
+    {
+      "Name": "슈베",
+      "Position": "일러부",
+      "Image": "Image 25.png",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "이마레",
+      "Position": "일러부",
+      "Image": "Image 26.jpg",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "이빈",
+      "Position": "일러부",
+      "Image": "Image 27.png",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "LAN",
+      "Position": "일러부",
+      "Image": "Image 28.png",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "여울",
+      "Position": "일러부",
+      "Image": "Image 29.jpg",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "하숭",
+      "Position": "일러부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "유",
+      "Position": "일러부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "작가연출부": [
+    {
+      "Name": "하루",
+      "Position": "작가/연출부",
+      "Image": "Image 30.png",
+      "Color": "#C7EBFF",
+      "NotionPage": ""
+    },
+    {
+      "Name": "진니",
+      "Position": "작가/연출부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "박가람",
+      "Position": "작가/연출부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "작곡음향": [
+    {
+      "Name": "진",
+      "Position": "작곡/음향",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ]
+}
