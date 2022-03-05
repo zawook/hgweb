@@ -5,7 +5,7 @@
       "Position": "대표",
       "Image": "image 14.png",
       "Color": "#FED3E7",
-      "NotionPage": "e0712e9d00094739989b8d59dda064b9"
+      "NotionPage": ""
     },
     {
       "Name": "마르크",
@@ -15,28 +15,14 @@
       "NotionPage": ""
     },
     {
-      "Name": "희날",
-      "Position": "성우부 매니저",
-      "Image": "image 16.png",
+      "Name": "우럭",
+      "Position": "성우실장",
+      "Image": "image 17.png",
       "Color": "#9AD8C3",
-      "NotionPage": ""
-    },
-    {
-      "Name": "희날",
-      "Position": "성우부 매니저",
-      "Image": "",
-      "Color": "",
       "NotionPage": ""
     }
   ],
   "트레이너": [
-    {
-      "Name": "우럭",
-      "Position": "성우 트레이너",
-      "Image": "Image 17.png",
-      "Color": "#B2C5FF",
-      "NotionPage": ""
-    },
     {
       "Name": "로쿠",
       "Position": "성우 트레이너",
@@ -61,17 +47,17 @@
   ],
   "성우부": [
     {
+      "Name": "희날",
+      "Position": "성우팀장",
+      "Image": "image 16.png",
+      "Color": "#9AD8C3",
+      "NotionPage": ""
+    },
+    {
       "Name": "끼남",
       "Position": "성우부",
       "Image": "Image 19.png",
       "Color": "",
-      "NotionPage": ""
-    },
-    {
-      "Name": "글리민",
-      "Position": "성우부",
-      "Image": "Image 20.png",
-      "Color": "#E0F58A",
       "NotionPage": ""
     },
     {
@@ -108,20 +94,62 @@
       "Image": "",
       "Color": "",
       "NotionPage": ""
-    }
-  ],
-  "일러부": [
+    },
     {
-      "Name": "슈베",
-      "Position": "일러부",
-      "Image": "Image 25.png",
+      "Name": "비야",
+      "Position": "성우부",
+      "Image": "",
       "Color": "",
       "NotionPage": ""
     },
     {
+      "Name": "담백",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "구칠",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "쏘쏘",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "마이크책",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "냥발",
+      "Position": "성우부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    }
+  ],
+  "일러부": [
+    {
       "Name": "이마레",
-      "Position": "일러부",
+      "Position": "일러팀장",
       "Image": "Image 26.jpg",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "슈베",
+      "Position": "일러부",
+      "Image": "Image 25.png",
       "Color": "",
       "NotionPage": ""
     },
@@ -159,26 +187,33 @@
       "Image": "",
       "Color": "",
       "NotionPage": ""
+    },
+    {
+      "Name": "소년",
+      "Position": "일러부",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
     }
   ],
   "작가연출부": [
     {
       "Name": "하루",
-      "Position": "작가/연출부",
+      "Position": "작가부",
       "Image": "Image 30.png",
       "Color": "#C7EBFF",
       "NotionPage": ""
     },
     {
       "Name": "진니",
-      "Position": "작가/연출부",
+      "Position": "작가부",
       "Image": "",
       "Color": "",
       "NotionPage": ""
     },
     {
       "Name": "박가람",
-      "Position": "작가/연출부",
+      "Position": "작가부",
       "Image": "",
       "Color": "",
       "NotionPage": ""
@@ -186,8 +221,15 @@
   ],
   "작곡음향": [
     {
-      "Name": "진",
-      "Position": "작곡/음향",
+      "Name": "JIN",
+      "Position": "작곡가",
+      "Image": "",
+      "Color": "",
+      "NotionPage": ""
+    },
+    {
+      "Name": "",
+      "Position": "작곡가",
       "Image": "",
       "Color": "",
       "NotionPage": ""
